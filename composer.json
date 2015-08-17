@@ -12,10 +12,6 @@
         }
     ],
     "require": {
-        "ext-bcmath": "*",
-        "ext-memcached": "*",
-        "ext-mongo": "*",
-        "ext-xsl": "*",
         "ext-gd": "*"
     },
     "bin": [
