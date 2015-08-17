@@ -11,6 +11,13 @@
             "email": "dz@heroku.com"
         }
     ],
+    "require": {
+        "ext-bcmath": "*",
+        "ext-memcached": "*",
+        "ext-mongo": "*",
+        "ext-xsl": "*",
+        "ext-gd": "*"
+    },
     "bin": [
         "bin/heroku-hhvm-apache2",
         "bin/heroku-hhvm-nginx",
