@@ -11,9 +11,6 @@
             "email": "dz@heroku.com"
         }
     ],
-  "require": {
-    "gd": "*"
-},
     "bin": [
         "bin/heroku-hhvm-apache2",
         "bin/heroku-hhvm-nginx",
